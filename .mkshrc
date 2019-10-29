@@ -1,0 +1,11 @@
+#PS1
+PS1=" >  "
+
+
+#binds 
+bind -m '^L'=clear'^J'
+
+
+
+#Alias's
+alias ll='ls -1 '
